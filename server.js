@@ -73,7 +73,3 @@ app.delete('/usuarios/:id', async (req, res) => {
 
 
 app.listen(3000)
-
-
-//senha db = Ayv7XFTyB8lvIKDX
-//usuario: annamiranda894
