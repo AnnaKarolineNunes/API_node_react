@@ -1,21 +1,13 @@
-# Projeto de Cadastro de Usuários - Backend
+# Projeto de Cadastro de Usuários - Frontend
 
-Este é o backend de uma aplicação de cadastro de usuários, desenvolvido com Node.js, Express, Prisma, e MongoDB. Ele fornece uma API para operações de criação, leitura, atualização e exclusão de usuários.
+Este é o frontend de uma aplicação de cadastro de usuários, desenvolvido com React. Ele permite aos usuários cadastrar, visualizar, atualizar e excluir informações de outros usuários através de uma interface simples e intuitiva.
 
 ## Tecnologias Utilizadas
 
-- **Node.js**: Ambiente de execução para o JavaScript no servidor.
-- **Express**: Framework web para Node.js.
-- **Prisma**: ORM (Object-Relational Mapping) utilizado para gerenciar o banco de dados.
-- **MongoDB**: Banco de dados NoSQL, versão gratuita utilizada.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS**: Para estilização da interface.
 
 ## Instalação e Configuração
-
-### Pré-requisitos:
-- Node.js instalado
-- Gerenciador de pacotes npm ou yarn
-- Conta gratuita no MongoDB e instância configurada
-- Banco de dados configurado com Prisma
 
 ### Passos:
 
@@ -23,7 +15,7 @@ Este é o backend de uma aplicação de cadastro de usuários, desenvolvido com 
 
     ```bash
     git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    cd nome-do-repositorio/backend
+    cd nome-do-repositorio/frontend
     ```
 
     2. **Instale as dependências:**

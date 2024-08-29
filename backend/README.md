@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Usuários
 
-Este projeto é uma aplicação de cadastro de usuários utilizando Node.js no back-end com o framework Express e o banco de dados MongoDB, gerenciado pela biblioteca Prisma. No front-end, foi utilizado React. O sistema permite criar, listar, atualizar e deletar usuários.
+Este projeto é uma aplicação de cadastro de usuários utilizando Node.js no back-end com o framework Express e o banco de dados MongoDB, gerenciado pela biblioteca Prisma.
 
 ## Tecnologias Utilizadas
 
@@ -10,9 +10,6 @@ Este projeto é uma aplicação de cadastro de usuários utilizando Node.js no b
 - **Prisma**: ORM (Object-Relational Mapping) utilizado para gerenciar o banco de dados.
 - **MongoDB**: Banco de dados NoSQL, versão gratuita utilizada.
 
-### Front-end:
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **CSS**: Para estilização da interface.
 
 ## Instalação e Configuração
 
