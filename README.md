@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Usuários
 
-<img src="imageReact.png" alt="Tela de cadastro" width="200"/>
+<img src="imageReact.png" alt="Tela de cadastro"/>
 
 
 ## Objetivo do Projeto 
