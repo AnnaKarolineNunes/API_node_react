@@ -1,5 +1,8 @@
 # Projeto de Cadastro de Usuários
 
+<img src="imageReact.png" alt="Tela de cadastro" width="200"/>
+
+
 ## Objetivo do Projeto 
 
 Este projeto tem como objetivo fornecer uma aplicação completa de cadastro de usuários, utilizando tecnologias modernas para o back-end e front-end. O sistema permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) de usuários, sendo dividido em duas partes principais: o back-end, desenvolvido em Node.js com Express e MongoDB, e o front-end, construído com React.
