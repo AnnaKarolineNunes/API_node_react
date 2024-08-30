@@ -49,7 +49,7 @@ Na pasta backend, abra o terminal e excute os seguintes comandos:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/api_node_React_jwt_user-registration.git
+    git clone https://github.com/seu-usuario/nome-do-repo.git
     cd api_node_React_jwt_user-registration
     ```
 
